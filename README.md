@@ -89,7 +89,7 @@ The model was evaluated using quantitative metrics (BLEU, ROUGE) and qualitative
 
 The model is deployed using **Gradio** and hosted on **HuggingFace Spaces**.
 
-- **Live Demo**: musembii/medical-assistant-demo
+- **Live Demo**: (https://huggingface.co/spaces/musembii/medical-assistant-demo)
 - **Model Weights**: musembii/medical-assistant
 
 ##  Disclaimer
